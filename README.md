@@ -1,1 +1,0 @@
-# fastapi_day_3
